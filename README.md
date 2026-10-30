@@ -1,18 +1,82 @@
-# 💫 About Me:
-<br># Hi, I'm Dilip Nepali 👋<br><br>### Software Architect | Java & Spring Specialist | AWS Certified Solutions Architect – Professional<br><br>I’m a software engineering professional with **10–15 years of experience** designing, developing, and evolving enterprise software systems.<br><br>My core strength is **Java-based enterprise engineering**, including backend architecture, application design, integrations, databases, and secure, scalable systems.<br><br>I enjoy working across the full engineering lifecycle — from architecture and technical decisions to implementation, delivery, and continuous improvement.<br><br>I'm also exploring and building practical AI-powered applications, LLM integrations, and autonomous agent workflows.<br><br>---<br><br>## What I Work On<br><br>- **Software Architecture:** Enterprise application architecture, system design, integration patterns, and technical strategy.<br>- **Backend Engineering:** Java, Spring Boot, Spring Security, JPA, REST APIs, and distributed systems.<br>- **Cloud Architecture:** AWS, cloud-native application design, scalability, reliability, and security.<br>- **AI Engineering:** LLM applications, agentic workflows, model integrations, MCP, and intelligent automation.<br>- **Technical Leadership:** Architecture decisions, engineering practices, problem solving, and delivery.<br><br>## Certifications<br><br>🏅 **AWS Certified Solutions Architect – Professional**  <br>Active certification<br><br>## Featured Work<br><br>### [Aivise.io](https://aivise.io)<br><br>A featured project in my portfolio.<br><br>### Atlas — Personal Autonomous AI Operator<br><br>An ongoing engineering project exploring autonomous AI workflows, agent orchestration, memory, model-provider integrations, and tool execution.<br><br>### Enterprise Software Engineering<br><br>Experience designing and evolving enterprise applications involving Java, Spring, databases, security, and complex integrations.<br><br>---<br><br>## Technology Stack<br><br>**Languages & Backend**<br><br>Java · Python · SQL · Spring Boot · Spring Security · JPA · REST APIs<br><br>**Cloud & Infrastructure**<br><br>AWS · Docker · Cloud Architecture · Distributed Systems<br><br>**Databases**<br><br>Oracle · PostgreSQL · Relational Database Design<br><br>**AI & Automation**<br><br>LLMs · AI Agents · MCP · Agent Orchestration · Workflow Automation<br><br>**Frontend & Development**<br><br>JavaScript · TypeScript · Next.js · Git · CI/CD<br><br>---<br><br>## Engineering Philosophy<br><br>- Design for maintainability, security, and long-term evolution.<br>- Prefer simple, reliable architectures over unnecessary complexity.<br>- Build useful solutions around real problems.<br>- Integrate proven technologies where they accelerate delivery.<br>- Use AI as an engineering capability, with appropriate controls and human oversight.<br><br>---<br><br>## Connect<br><br>- **LinkedIn:** [Dilip Nepali](https://www.linkedin.com/in/dilip-nepali/)<br>- **Portfolio:** [Aivise.io](https://aivise.io)<br>- **GitHub:** [@yashdilip](https://github.com/yashdilip)<br><br>---<br><br>*Always learning, architecting, and building.*<br>
+# Hi, I'm Dilip Nepali 👋
 
+### Software Architect · Java & Cloud Engineering · Applied AI
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dilip-nepali) 
+I’m a software engineering professional with **10–15 years of experience** designing, building, and evolving enterprise applications. My core strength is **Java-based backend engineering and software architecture**, with experience spanning application design, integrations, databases, security, and cloud solutions.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Ember](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yashdilip&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=yashdilip&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yashdilip&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy working across the engineering lifecycle—from shaping architecture and making technical decisions to implementation, delivery, and continuous improvement. I’m also building practical experience with AI-powered applications, LLM integrations, and autonomous agent workflows.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilip-nepali/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Aivise.io-111827?style=flat&logo=googlechrome&logoColor=white)](https://aivise.io)
 
 ---
-[![](https://komarev.com/ghpvc/?username=yashdilip&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Work On
+
+- **Software & Solution Architecture** — system design, enterprise application architecture, integration patterns, and technical strategy.
+- **Backend Engineering** — Java, Spring Boot, Spring Security, JPA, REST APIs, and data-intensive applications.
+- **Cloud Architecture** — AWS, scalable application design, reliability, and security.
+- **Applied AI Engineering** — LLM applications, model integrations, agent workflows, MCP, and intelligent automation.
+- **Engineering Leadership** — architecture decisions, technical direction, engineering practices, and delivery.
+
+## Certification
+
+[![AWS Certified Solutions Architect – Professional](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+
+**Active certification**
+
+## Selected Work & Interests
+
+- **[Aivise.io](https://aivise.io)** — a project in my broader portfolio.
+- **Autonomous AI systems** — exploring agent orchestration, memory, model-provider integrations, tool execution, and reliable end-to-end workflows.
+- **Enterprise engineering** — designing and evolving applications involving Java, Spring, databases, security, and complex integrations.
+
+## Technology
+
+**Languages & Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Cloud, Data & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Frontend & Engineering Tools**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**AI & Automation**
+
+LLM applications · AI agents · MCP · Agent orchestration · Workflow automation
+
+## Engineering Principles
+
+- Favor clear, maintainable, and secure designs.
+- Choose appropriate simplicity over unnecessary complexity.
+- Build around real user and business problems.
+- Integrate proven tools where they accelerate delivery; replace them when a focused solution is better.
+- Apply AI with reliability, observability, and appropriate human oversight.
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/dilip-nepali](https://www.linkedin.com/in/dilip-nepali/)
+- Portfolio: [aivise.io](https://aivise.io)
+- GitHub: [@yashdilip](https://github.com/yashdilip)
+
+---
+
+*Always learning, architecting, and building.*
