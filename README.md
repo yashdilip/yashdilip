@@ -1,10 +1,10 @@
 # Hi, I'm Dilip Nepali 👋
 
-### Software Architect · Java & Cloud Engineering · Full-Stack Product Builder · Applied AI
+### Software Architect · Entrepreneur · AI Product Builder · AWS Certified Solutions Architect – Professional
 
-I’m a software engineering professional with **10–15 years of experience** designing, developing, and evolving software—from enterprise backend platforms to end-to-end web products. My strongest foundation is **Java-based enterprise engineering and software architecture**, complemented by hands-on work across frontend development, cloud, databases, integrations, security, DevOps, and AI-enabled applications.
+I’m a **Software Architect and Entrepreneur** with **10–15 years of engineering experience**, building enterprise software and independent AI-powered products. My strongest foundation is **Java-based enterprise engineering and software architecture**, complemented by hands-on work across frontend development, cloud, databases, integrations, security, DevOps, and AI-enabled applications.
 
-I enjoy the full engineering lifecycle: understanding a problem, shaping the architecture, making technology decisions, building the solution, and taking it through delivery and continuous improvement. I value pragmatic engineering, maintainable systems, and choosing the right tool for the problem.
+As the **Founder and sole developer of [Aivise.io](https://aivise.io)**, I took an AI-powered learning and interview-preparation platform from concept to a complete product, owning its direction, architecture, and end-to-end implementation. I enjoy turning real problems into useful products—from shaping the idea and making technology decisions to building, delivering, and continuously improving the solution.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilip-nepali/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Aivise.io-111827?style=flat&logo=googlechrome&logoColor=white)](https://aivise.io)
@@ -24,7 +24,7 @@ I enjoy the full engineering lifecycle: understanding a problem, shaping the arc
 
 ### [Aivise.io](https://aivise.io) — AI-Powered Learning & Interview Preparation
 
-I designed and built **Aivise.io from the ground up as the sole developer**, taking ownership of the product's end-to-end implementation—from the initial concept and architecture through application development and delivery.
+As the **founder and owner of Aivise.io**, I designed and built the platform from the ground up as its sole developer, taking responsibility for the product vision and end-to-end implementation—from the initial concept and architecture through application development and delivery.
 
 Aivise is an AI-based learning and interview-preparation application focused on helping people learn, practice, and prepare more effectively. I used AI coding assistants as development collaborators throughout the build, including **Claude, ChatGPT, and Codex**, working within **VS Code**. Product and engineering ownership, implementation decisions, and integration of the application remained mine.
 
